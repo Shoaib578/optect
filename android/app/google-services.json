@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298510921517",
+    "project_id": "optect-ca1c9",
+    "storage_bucket": "optect-ca1c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298510921517:android:2a70d616618477fe4bada4",
+        "android_client_info": {
+          "package_name": "com.optect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298510921517-dfmb3avcjl48q00n5o5iq28a17c1ft3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKyN4FwIBHLp1rKw8J0ddBLfeMVH848oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298510921517-dfmb3avcjl48q00n5o5iq28a17c1ft3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
